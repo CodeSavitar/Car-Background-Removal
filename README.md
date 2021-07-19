@@ -11,7 +11,7 @@ The objective of this project is to remove the background of a car in an image a
 
 <br>
 
-![](Images/view1.jpeg)
+![](Images/view2.jpeg)
 
 <br>
 <br>
