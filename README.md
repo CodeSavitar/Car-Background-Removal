@@ -11,4 +11,33 @@ The objective of this project is to remove the background of a car in an image a
 
 <br>
 
-![](view1.jpeg)
+![](Images/view1.jpeg)
+
+<br>
+<br>
+
+**Background Removed Image:**
+
+<br>
+
+![](Images/Background Removed.jpeg)
+
+<br>
+<br>
+
+## Background Replacement
+
+**Background Image:**
+
+<br>
+
+![](Images/Background1.jpg)
+
+<br>
+<br>
+
+**Background Replaced Image:**
+
+<br>
+
+![](Images/Background replaced.jpeg)
