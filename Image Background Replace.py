@@ -16,8 +16,8 @@ white_img, masked_img = get_masked_image(resized)
 masked_image = np.copy(resized)
 masked_image[masked_img == 0] = [0, 0, 0]
 
-background = cv2.imread('Background.jpg')
-background = cv2.cvtColor(background, cv2.COLOR_BGR2RGB)
+background = cv2.imread('Background1.jpg')
+#background = cv2.cvtColor(background, cv2.COLOR_BGR2RGB)
 crop_background = background[0:604, 0:806]
 
 crop_background[masked_img != 0] = [0, 0, 0]
