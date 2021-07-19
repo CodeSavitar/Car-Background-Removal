@@ -20,7 +20,7 @@ The objective of this project is to remove the background of a car in an image a
 
 <br>
 
-![](Images/Background Removed.jpeg)
+![](Images/Background-Removed.jpeg)
 
 <br>
 <br>
@@ -40,4 +40,4 @@ The objective of this project is to remove the background of a car in an image a
 
 <br>
 
-![](Images/Background replaced.jpeg)
+![](Images/Background-replaced.jpeg)
