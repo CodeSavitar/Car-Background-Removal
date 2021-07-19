@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 from IMR import get_masked_image
 
-img = cv2.imread('view2.jpeg')
+img = cv2.imread('Images/view2.jpeg')
 
 scale_percent = 20 
 width = int(img.shape[1] * scale_percent / 100)
@@ -16,7 +16,7 @@ white_img, masked_img = get_masked_image(resized)
 masked_image = np.copy(resized)
 masked_image[masked_img == 0] = [0, 0, 0]
 
-background = cv2.imread('Background1.jpg')
+background = cv2.imread('Images/Background1.jpg')
 #background = cv2.cvtColor(background, cv2.COLOR_BGR2RGB)
 crop_background = background[0:604, 0:806]
 

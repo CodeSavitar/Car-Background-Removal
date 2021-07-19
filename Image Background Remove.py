@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 
-img = cv2.imread('view2.jpeg')
+img = cv2.imread('Images/view2.jpeg')
 
 scale_percent = 20 
 width = int(img.shape[1] * scale_percent / 100)
